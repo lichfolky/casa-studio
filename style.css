@@ -47,7 +47,7 @@ body {
 }
 
 .snap{
-    scroll-margin-top: 2rem;
+    scroll-margin-top: 3rem;
     scroll-snap-align: start;
 }
 
@@ -139,6 +139,8 @@ h1 {
     font-size: var(--font-size-xxl);
     padding: 0 0 2rem 0;
     font-weight: 600;
+        line-height: 1.1;
+
 }
 
 #logo a {

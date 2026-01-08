@@ -42,8 +42,7 @@ body {
 
 .snapper{
     overflow-y: scroll;
-    scroll-snap-type: y mandatory;
-    height: 100dvh;
+    scroll-snap-type: y mandatory ;
 }
 
 .snap{
